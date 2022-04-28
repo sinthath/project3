@@ -13,7 +13,7 @@ Items can be purchased with a simple transaction process facilitated through the
 <br>
 
 ---
-<br>
+
 <br>
 
 ## User Story
@@ -37,7 +37,7 @@ Measurement of success: Successful order of item.
 <br>
 
 ---
-<br>
+
 <br>
 
 ## Acceptance Criteria
@@ -70,8 +70,6 @@ Measurement of success: Successful order of item.
 
 ---
 <br>
-<br>
-
 
 ## Usage and Installation
 
@@ -89,7 +87,6 @@ Save changes to .env file and deploy.
 
 ---
 <br>
-<br>
 
 ## Built With:
 
@@ -106,7 +103,6 @@ Save changes to .env file and deploy.
 
 ---
 <br>
-<br>
 
 ## Screenshots
 
@@ -120,7 +116,6 @@ Save changes to .env file and deploy.
 <br>
 
 ---
-<br>
 <br>
 
 ## Links
@@ -136,7 +131,6 @@ Github Repository:
 <br>
 
 ---
-<br>
 <br>
 
 ## License
