@@ -21,7 +21,9 @@ Items can be purchased with a simple transaction process facilitated through the
 As a user of the platform, I want easily navigate the application to search for items I want to purchase, have the ability to pay with a credit card and receive a purchase confirmation. 
 
 End user objective: Purchase items with a credit card. 
+
 Site owner objective: Increase purchases.
+
 Acceptance criteria: 
 
 * Accept Visa and PayPal 
