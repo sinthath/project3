@@ -1,5 +1,7 @@
 # Marakesh-North
 
+![image](https://user-images.githubusercontent.com/92878321/165866017-c1d3d131-0039-49bc-84dc-e807ced5757b.png)
+
 ---
 <br>
 
@@ -92,27 +94,12 @@ Save changes to .env file and deploy.
 
 - Node.js
 - Express.js
-- GraphQL
 - Braintree payment gateway
 - Json Web Token autheticatiion
 - NoSQL Database (Mongodb)
 - React
 - Mongoose
-- 
-<br>
 
----
-<br>
-
-## Screenshots
-
-![Screenshot1](./content/images/pic1.png)
-<br>
-![Screenshot2](./content/images/pic2.png)
-<br>
-![Screenshot3](./content/images/pic3.png)
-<br>
-![Screenshot4](./content/images/pic4.png)
 <br>
 
 ---
